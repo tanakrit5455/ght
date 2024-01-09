@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "todo": "Tanakrit Somprasong",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "todo": "Solve a Rubik's cube",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "todo": "Learn CSS",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "todo": "Homework 14",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "todo": "",
+      "completed": false,
+      "user": 1,
+      "id": 16
+    },
+    {
+      "todo": "",
+      "completed": false,
+      "user": 1,
+      "id": 17
+    },
+    {
+      "todo": "",
+      "completed": false,
+      "user": 1,
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "name": "andy"
+    },
+    {
+      "name": "bobby"
+    }
+  ]
+}
